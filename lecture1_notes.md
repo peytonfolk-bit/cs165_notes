@@ -6,8 +6,8 @@
     - Little bit slower because of the interpreter being in the middle
     - Code is cross platform which is nice
     - When errors happen it tells you what is wrong
-- c++ is a compilied language
-    -  in c++ the file goes to memory and the complier runs an executable file that can be executed on your computer
-    - when erros happen it just segementation fault
-- sometimes a language can show up in both compiled and interpreted languages
-    - Java and C# are an example
+- c++ is a compilied language.
+    -  in c++ the file goes to memory and the complier runs an executable file that can be executed on your computer.
+    - when erros happen it just segementation fault.
+- sometimes a language can show up in both compiled and interpreted languages.
+    - Java and C# are an example.
