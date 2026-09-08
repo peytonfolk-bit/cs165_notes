@@ -7,7 +7,7 @@
 
 # Python Statements, Expressions, and Comments
 
-**Statement:** a complete line of code that performs and action or task. Python code consists of a series of statements, and each statement is executed sequentially. The entire line is a statement.
+**Statement:** a complete line of code that performs an action or task. Python code consists of a series of statements, and each statement is executed sequentially. The entire line is a statement.
 
 - Ex: 
 ```python 
